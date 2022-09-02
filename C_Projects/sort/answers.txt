@@ -1,0 +1,11 @@
+sort1 uses: Bubble sorting
+
+How do you know?: Time taken was the highest in the worst case scenario of reversed10000.txt and was slightly less than sort3 in random10000.txt
+
+sort2 uses: Merge sorting
+
+How do you know?: Takes the lowest time amongst all of them
+
+sort3 uses: Selection sorting
+
+How do you know?: Time taken is slightly less than sort1 in both cases
